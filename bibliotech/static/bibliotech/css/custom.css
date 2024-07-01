@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1 {
+    color: Black;
+    font-family: 'Open sans';
+    font-weight: 700;
+}
+
+h2 {
+    color: Black;
+    font-family: 'Open sans';
+    font-weight: 700;
+    margin-left: 70px;
+}
+
+img {
+    background-color: #2C313B;
+}
+
+.barra-lateral {
+    background-color: #3F444E;
+}
+
+.logo-topo {
+    background-color: #2C313B;
+}
